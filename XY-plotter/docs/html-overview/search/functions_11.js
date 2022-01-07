@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['sct0_5firqhandler',['SCT0_IRQHandler',['../cr__startup__lpc15xx_8cpp.html#aac8a508f40a8900a22ec4ed5484688c7',1,'cr_startup_lpc15xx.cpp']]],
+  ['sct1_5firqhandler',['SCT1_IRQHandler',['../cr__startup__lpc15xx_8cpp.html#a713b84ce459f892b9cdb96f6181f1768',1,'cr_startup_lpc15xx.cpp']]],
+  ['sct2_5firqhandler',['SCT2_IRQHandler',['../cr__startup__lpc15xx_8cpp.html#a18841d44d55026f316ef3f8e3a074442',1,'cr_startup_lpc15xx.cpp']]],
+  ['sct3_5firqhandler',['SCT3_IRQHandler',['../cr__startup__lpc15xx_8cpp.html#a585c01c476efe892d0a15c5cd76e44f2',1,'cr_startup_lpc15xx.cpp']]],
+  ['set_5fon_5freceive',['set_on_receive',['../classLpcUart.html#a2ea4a3456cd5ef45490ce9633049f109',1,'LpcUart']]],
+  ['setlaserpower',['setLaserPower',['../classPlotter.html#a8c1c358f0453cad8cf02bd98f3f0e6c7',1,'Plotter']]],
+  ['setmotors',['setMotors',['../classPlotter.html#ab3b46cf9eb309236a1f32ddbe7cfdfc1',1,'Plotter']]],
+  ['setorigindirection',['setOriginDirection',['../classMotor.html#a799fa074fc58a6e850aecc2354b3c8fc',1,'Motor']]],
+  ['setpenvalue',['setPenValue',['../classPlotter.html#ac4ed2dc9a659f3499f083956af2f4b54',1,'Plotter']]],
+  ['settotalstepx',['setTotalStepX',['../classPlotter.html#afa22bcbbd0ab049b1d454fd0619fb294',1,'Plotter']]],
+  ['settotalstepy',['setTotalStepY',['../classPlotter.html#ab2f166efb63bfefe588dbdd18d6b486a',1,'Plotter']]],
+  ['setxstepinmm',['setXStepInMM',['../classPlotter.html#a969f438089b2b27e702d049c05625d38',1,'Plotter']]],
+  ['setystepinmm',['setYStepInMM',['../classPlotter.html#a07688e05c09ccf9c3c44fd8b1dd52f8e',1,'Plotter']]],
+  ['speed',['speed',['../classLpcUart.html#a84088350a1bed22b6ebcb8405015bbcf',1,'LpcUart']]],
+  ['spi0_5firqhandler',['SPI0_IRQHandler',['../cr__startup__lpc15xx_8cpp.html#a77af16b83f601623b46ac65597f65f71',1,'cr_startup_lpc15xx.cpp']]],
+  ['spi1_5firqhandler',['SPI1_IRQHandler',['../cr__startup__lpc15xx_8cpp.html#aabfd850377b3c32ce05042b9b6ffa14d',1,'cr_startup_lpc15xx.cpp']]],
+  ['start_5fpolling',['start_polling',['../classPlotter.html#ad7d34d7320c4ac1ea6ae6fb2e39498ab',1,'Plotter']]],
+  ['stop_5fpolling',['stop_polling',['../classPlotter.html#a18fd814f8864f0f67509732ee367dadd',1,'Plotter']]],
+  ['svc_5fhandler',['SVC_Handler',['../cr__startup__lpc15xx_8cpp.html#a553d3c6fbc0ff764fa70b866b5c79e3e',1,'cr_startup_lpc15xx.cpp']]],
+  ['systeminit',['SystemInit',['../sysinit_8c.html#a93f514700ccf00d08dbdcff7f1224eb2',1,'sysinit.c']]],
+  ['systick_5fhandler',['SysTick_Handler',['../cr__startup__lpc15xx_8cpp.html#ab80f32111a0725c9f4cdfb9d6c9b7f82',1,'cr_startup_lpc15xx.cpp']]]
+];

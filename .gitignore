@@ -1,0 +1,46 @@
+/FreeRTOS_TAD_logs/
+.settings/
+*Debug
+*.swp #vim backup
+*.swo #vim backup
+
+#General build artifacts
+*.mk
+*.o
+*.a
+*.elf
+*.hex
+*.axf
+*.d
+*.lst
+*.map
+*.plg
+*.lnp
+*.crf
+*.tra
+*.sct
+*.bak
+*.dep
+*.launch
+*makefile
+*.ld
+*.bin
+
+#MDK-ARM
+*.__i
+*.htm
+*.uvgui.*
+*.uvopt
+*.axf
+
+#Eclipse
+.metadata
+
+#Mac
+.DS_Store
+
+#MCU files
+cr_cpp_config.cpp
+cr_startup_lpc15xx.cpp
+sysinit.c
+crp.c
